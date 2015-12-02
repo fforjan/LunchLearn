@@ -6,7 +6,7 @@ namespace LunchLearn
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello Le monde");
+            Console.WriteLine("Hello World");
         }
     }
 }
